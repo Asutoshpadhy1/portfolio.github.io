@@ -32,22 +32,21 @@ Latest commit b25abde 6 days ago
 435 lines (328 sloc)  5.97 KB
   
 :root{
-	--mainColor:#eaeaea;
-	--secondaryColor:#fff;
+	--mainColor:#15202B;
+	--secondaryColor:#192734;
 
-	--borderColor:#c1c1c1;
+	--borderColor:#164D56;
 
-	--mainText:black;
-	--secondaryText:#111;
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
 
-	--themeDotBorder:#24292e;
+	--themeDotBorder:#FFF;
 
-	--previewBg:rgb(251, 249, 243, 0.8);
-	--previewShadow:#111;
+	--previewBg:rgb(25, 39, 52, 0.8);
+	--previewShadow:#111921;
 
 
-	--buttonColor:black;
-
+	--buttonColor:#17a2b8;
 
 }
 
